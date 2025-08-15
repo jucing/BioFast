@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jucing/BIoFast/hash_comm/hashGen.cpp
+iostream
+-
+iomanip
+-
+openssl/sha.h
+-
+chrono
+-
+random
+-
+fstream
+-
+string
+-
+vector
+-
+vector
+-
+algorithm
+-
+
